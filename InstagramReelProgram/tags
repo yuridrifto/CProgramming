@@ -10,3 +10,4 @@
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
 !_TAG_PROGRAM_VERSION	5.9.0	//
 main	insta.c	/^int main ()$/;"	f	typeref:typename:int
+testNcurses	insta.c	/^void testNcurses()$/;"	f	typeref:typename:void

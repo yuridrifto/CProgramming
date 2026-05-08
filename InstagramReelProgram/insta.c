@@ -6,8 +6,19 @@
 //
 
 #include <stdio.h>
+#include <ncurses.h>
+
+void testNcurses()
+{
+    initscr();
+    printw("Hello World !");
+    refresh();
+    getch();
+    endwin();
+}       
 
 int main ()
 {
+    testNcurses();
     return 0;
 }
