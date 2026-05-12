@@ -1,0 +1,3 @@
+/home/yuri/CProgrammingFolder/ClickDragProgram/build/CMakeFiles/ClickDragProgram.dir
+/home/yuri/CProgrammingFolder/ClickDragProgram/build/CMakeFiles/edit_cache.dir
+/home/yuri/CProgrammingFolder/ClickDragProgram/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/ClickDragProgram.dir/main.c.o -o ClickDragProgram  -lnotcurses -lncurses 
