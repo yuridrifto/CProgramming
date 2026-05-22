@@ -27,6 +27,8 @@ void testNcurses()
     endwin();
 }       
 
+
+
 int main ()
 {
     testNcurses();
